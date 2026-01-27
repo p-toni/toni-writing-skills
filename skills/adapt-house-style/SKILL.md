@@ -1,8 +1,9 @@
 ---
-name: house-style-adapter
+name: adapt-house-style
 description: |
-  Apply Toni’s house style to an existing draft without changing meaning,
-  claims, or decisions.
+  Applies Toni's house style to an existing draft without changing meaning,
+  claims, or decisions. Use when a complete draft exists and only surface
+  style changes are desired.
 ---
 
 # HOUSE STYLE ADAPTER — Surface Transformation Only

@@ -1,8 +1,9 @@
 ---
 name: lock-context-pack
 description: |
-  Create a decision-grade context pack that freezes meaning before prose.
-  No stylistic improvement, no new ideas, no drafting.
+  Creates a decision-grade context pack that freezes meaning before prose.
+  Use when the user wants to lock scope, capture constraints, or establish
+  a single source of truth. No stylistic improvement, no new ideas, no drafting.
 ---
 
 # LOCK — Context Pack Builder

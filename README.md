@@ -26,8 +26,8 @@ Install individual skills using skills.sh:
 npx skills add ./skills/explore
 npx skills add ./skills/lock-context-pack
 npx skills add ./skills/draft-from-pack
-npx skills add ./skills/house-style-adapter
-npx skills add ./skills/minimal-proofread
+npx skills add ./skills/adapt-house-style
+npx skills add ./skills/proofread-minimal
 ```
 
 Use them explicitly via your prompts.

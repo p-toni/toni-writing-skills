@@ -1,9 +1,9 @@
 ---
 name: explore
 description: |
-  Help the user explore a decision or problem space from first principles
-  without converging prematurely. Ask clarifying questions and propose
-  options with tradeoffs. No drafting.
+  Helps the user explore a decision or problem space from first principles
+  without converging prematurely. Use when the user is uncertain, asks to
+  explore options, or wants tradeoffs. No drafting.
 ---
 
 # EXPLORE — Scout Mode (Bounded-Me)

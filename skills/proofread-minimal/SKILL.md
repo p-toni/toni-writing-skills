@@ -1,8 +1,8 @@
 ---
-name: minimal-proofread
+name: proofread-minimal
 description: |
-  Proofread text with minimal edits while preserving voice, structure,
-  and intent.
+  Proofreads text with minimal edits while preserving voice, structure,
+  and intent. Use when the user requests a light proofread with minimal changes.
 ---
 
 # MINIMAL PROOFREAD — Mechanical Edit Only

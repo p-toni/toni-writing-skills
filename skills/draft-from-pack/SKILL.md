@@ -1,8 +1,9 @@
 ---
 name: draft-from-pack
 description: |
-  Draft a strategic memo using only an existing Context Pack as source
-  of truth. No new ideas, no drift.
+  Drafts a strategic memo using only an existing Context Pack as source
+  of truth. Use when a Context Pack is provided and a memo draft is requested.
+  No new ideas, no drift.
 ---
 
 # DRAFT — From Context Pack Only
