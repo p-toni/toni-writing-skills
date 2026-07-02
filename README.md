@@ -28,6 +28,7 @@ npx skills add ./skills/lock-context-pack
 npx skills add ./skills/draft-from-pack
 npx skills add ./skills/adapt-house-style
 npx skills add ./skills/proofread-minimal
+npx skills add ./skills/toni-ltd-voice
 ```
 
 Use them explicitly via your prompts.
